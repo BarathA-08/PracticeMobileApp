@@ -1,0 +1,12 @@
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\bin\Debug\netstandard2.0\PracticeMobileApp.deps.json
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\bin\Debug\netstandard2.0\PracticeMobileApp.dll
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\bin\Debug\netstandard2.0\PracticeMobileApp.pdb
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\PracticeMobileApp.csprojAssemblyReference.cache
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\PracticeMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\PracticeMobileApp.AssemblyInfoInputs.cache
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\PracticeMobileApp.AssemblyInfo.cs
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\PracticeMobileApp.dll
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\PracticeMobileApp.pdb
+C:\Users\barumugam\source\repos\PracticeMobileApp\PracticeMobileApp\PracticeMobileApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs

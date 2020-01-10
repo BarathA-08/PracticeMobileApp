@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PracticeMobileApp"
+             x:Class="PracticeMobileApp.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <!--<Label Text="Hi" x:Name="DispLabel"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button Text="Click" x:Name="BtnClick"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />-->
+        <Label x:Name="LblFirstName" Text="First Name"/>
+        <Entry x:Name="FirstName" Placeholder="First Name" 
+               Text ="{Binding FirstName}"/>
+        <Label x:Name="LblLastName" Text="Second Name"/>
+        <Entry x:Name="LastName" Placeholder="Last Name"
+               Text ="{Binding LastName}"/>
+        <Label x:Name="LblFullName" Text="Full Name"/>
+        <Label x:Name="FullName" 
+               Text ="{Binding FullName}"/>
+
+    </StackLayout>
+
+</ContentPage>
